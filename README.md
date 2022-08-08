@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jiilan Nashrulloh Tanjung
-- 👀 I’m interested in Website development,application development,Data analyst,Robotics.
-- 🌱 I’m currently learning Python,Java,C++,Php,JavaScript and SQL
-- 💞️ I’m looking to collaborate on [I don't know,but I'm insterested in working at Microsoft.Inc or Google.Inc]
+- 👀 I’m Full-Stack Developer & Mobile apps Developer
+- 🌱 Now i'm learning Kotlin and Swift
+- 💞️ Just learning programming language since 2018
 - 📫 How to reach me? You can send message on my email : jiilannashrulloh@gmail.com,or if you in Bandung,Indonesia,you can go to SMKN 4 Padalarang.
 
 <!---
