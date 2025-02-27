@@ -1,4 +1,4 @@
-#jiilan nashrulloh tanjung
+# Jiilan Nashrulloh Tanjung
 
 ## Full-Stack & Mobile Developer | Reluctant Code Wizard
 
