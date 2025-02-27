@@ -35,7 +35,7 @@
 - Ruby on Rails (Magic that occasionally backfires)
 - Svelte (The new kid I'm forced to befriend)
 
-## 🔨 Creator of [Azeng Lang](https://github.com/JiilanTj/AzengLang)
+## 🔨 Creator of [Azeng Lang](https://github.com/JiilanTj/azeng-lang)
 An Indonesian-based interpreter programming language built on C, because apparently creating a new language is what happens when an existing language overwhelm you.
 
 ## ⏳ Professional Journey
