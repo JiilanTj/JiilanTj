@@ -1,12 +1,12 @@
-# Jiilan Nashrulloh Tanjung
+#jiilan nashrulloh tanjung
 
-## Full-Stack & Mobile Developer | Reluctant Code Sorcerer
+## Full-Stack & Mobile Developer | Reluctant Code Wizard
 
-> *"Depressed Man Who Was Fucking Hate Coding but Forced to Be a Coder"*
+> *"Depressed Man Who Really Hates Code but Is Forced to Become a Coder"*
 
-![Coding Meme](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![Code Meme](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
-## 💻 Technical Arsenal (Because Bills Don't Pay Themselves)
+## 💻 Tech Weaponry (Because the Bills Don't Pay Themselves)
 
 ### Languages I've Been Forced to Learn:
 - C/C++ (For when I hate myself extra)
@@ -36,12 +36,12 @@
 - Svelte (The new kid I'm forced to befriend)
 
 ## 🔨 Creator of [Azeng Lang](https://github.com/JiilanTj/AzengLang)
-An Indonesian-based interpreter programming language built with C, because apparently creating new languages is what happens when existing ones drive you to the edge.
+An Indonesian-based interpreter programming language built on C, because apparently creating a new language is what happens when an existing language overwhelm you.
 
 ## ⏳ Professional Journey
-Coding since 2016. Not by choice, but here we are. 
+Coding since 2016. Not by choice, but here we are.
 
-## 📱 Current Chains
+## 📱 Current Chain
 Currently deepening my Stockholm syndrome with Kotlin and Swift for mobile development.
 
 ## 📫 Reach Out (For Code Only, No Emotional Support Available)
@@ -50,4 +50,4 @@ Currently deepening my Stockholm syndrome with Kotlin and Swift for mobile devel
 
 ---
 
-*"They told me to follow my passion. I'm passionate about sleeping, but here I am, writing code at 3 AM."*
+*"They told me to follow my passion. I love sleeping so much, but here I am, writing code at 3am."*
